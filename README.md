@@ -72,3 +72,11 @@ tudo na mão, não pode usar nenhuma abstração/framework que você deixa de se
 
 * Só pode usar JavaScript puro;
 * Só pode usar banco relacional se não usar ferramenta de ORM;
+
+## Dev de verdade usa mac
+
+Outro Gatekeeping, normalmente o dev que teve o privilégio de ter $$$ pra comprar um Mac OU que teve sorte de trabalhar em uma empresa que fornece Macs. 
+
+## Dev de verdade faz tudo em Linux (ou distro favorita)
+
+Aqui a comunidade está mais preocupada com medir conhecimento ou quem sabe mais o quê do que realmente "get things done". Uma variante clássica desse problema é alguém desabafar "desisto, eu só queria ver um vídeo mas o Linux não é compatível com a minha placa de de vídeo". Essa frase sempre invoca um espertão que fala "Não, você está errado, Linux funciona é só fazer X, Y, Z dar reboot e rezar".
