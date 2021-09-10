@@ -77,4 +77,4 @@ tudo na mão, não pode usar nenhuma abstração/framework que você deixa de se
 
 > E o github tá em dia(todo verde)?
 
-Algumas pessoas dizem é possível fazer tumulto/treta/discórdia se o github estiver verdinho, mas e se a pessoa usar o gitlab?
+Algumas pessoas dizem que só é possível fazer tumulto/treta/discórdia se o github estiver verdinho, mas e se a pessoa usar o gitlab?
