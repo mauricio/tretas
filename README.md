@@ -73,6 +73,8 @@ tudo na mão, não pode usar nenhuma abstração/framework que você deixa de se
 * Só pode usar JavaScript puro;
 * Só pode usar banco relacional se não usar ferramenta de ORM;
 
-## E o github tá em dia(todo verde)?
+## Ficasis de o github
+
+> E o github tá em dia(todo verde)?
 
 Algumas pessoas dizem é possível fazer tumulto/treta/discórdia se o github estiver verdinho, mas e se a pessoa usar o gitlab?
