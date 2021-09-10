@@ -72,3 +72,8 @@ tudo na mão, não pode usar nenhuma abstração/framework que você deixa de se
 
 * Só pode usar JavaScript puro;
 * Só pode usar banco relacional se não usar ferramenta de ORM;
+
+## Programador vs Engenheiro de Software
+
+Mesmo que você trabalhe para alguma empresa internacional e o título do seu cargo seja Software Engineer, você
+não pode se auto-titular uma pessoa Engenheira de Software caso não esteja com o seu carnê do CREA em dias. 
