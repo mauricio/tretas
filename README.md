@@ -73,7 +73,7 @@ tudo na mão, não pode usar nenhuma abstração/framework que você deixa de se
 * Só pode usar JavaScript puro;
 * Só pode usar banco relacional se não usar ferramenta de ORM;
 
-## Ficasis de o github
+## Fiscais de github
 
 > E o github tá em dia(todo verde)?
 
