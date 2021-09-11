@@ -80,3 +80,8 @@ Outro Gatekeeping, normalmente o dev que teve o privilégio de ter $$$ pra compr
 ## Dev de verdade faz tudo em Linux (ou distro favorita)
 
 Aqui a comunidade está mais preocupada com medir conhecimento ou quem sabe mais o quê do que realmente "get things done". Uma variante clássica desse problema é alguém desabafar "desisto, eu só queria ver um vídeo mas o Linux não é compatível com a minha placa de de vídeo". Essa frase sempre invoca um espertão que fala "Não, você está errado, Linux funciona é só fazer X, Y, Z dar reboot e rezar".
+
+## GitLab é melhor que github
+
+Depois da compra do GitHub pela Microsoft quem é dev de verdade tem que migrar pro GitLab porque a Microsoft
+é maligna. No fim são todas empresas que querem ganhar dinheiro e escolher uma ou outra não faz diferença.
